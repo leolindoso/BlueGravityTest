@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: d884550d74c9e9546ad046667f2fda93
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player-red_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef32c253420700d4686e3768f10f2fab
+      internalID: -625098573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3593d86ee89dda84e81a26f4f9e8d832
+      internalID: 1232888816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e5a1dc4b0e64a41b6ab25e96064930
+      internalID: -753045876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a34a7932f25c924bb6c55810a0222ee
+      internalID: 1940874071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987051fae7b37f7429e2760f7da246eb
+      internalID: -958539602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb670dcc73a0c5478c15cc6c2a4fcc7
+      internalID: 710421414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2105db7b8ad77234cafb4864eeeeddd3
+      internalID: -1491938672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58863f2269f0b454ba560294a4eede9d
+      internalID: 617503370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb131714e291d74786b1b858d2433aa
+      internalID: -834327492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_40
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071662c86d037f74c81a7b02e5971237
+      internalID: -1576922780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f4f7e2544237e428b7936e308da0f8
+      internalID: -804802564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-red_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 241
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b2651548ddce946a9fde520348ae8a
+      internalID: 1563006737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      player-red_49: 355149946
+      player-red_25: -1244265209
+      player-red_7: -831797912
+      player-red_57: -1233297393
+      player-red_79: 1978079230
+      player-red_14: 1232888816
+      player-red_23: -2034271574
+      player-red_74: 175787938
+      player-red_18: 710421414
+      player-red_4: 2142155407
+      player-red_36: -818149369
+      player-red_43: 1714267973
+      player-red_21: 928231374
+      player-red_39: -834327492
+      player-red_64: -96478230
+      player-red_54: -63034474
+      player-red_6: -291966912
+      player-red_42: 1563006737
+      player-red_45: -23332416
+      player-red_55: 979757734
+      player-red_59: 1554415177
+      player-red_81: -582805990
+      player-red_12: 360370007
+      player-red_78: 508194424
+      player-red_60: -294100105
+      player-red_40: -1576922780
+      player-red_58: 1789676927
+      player-red_84: -1560768072
+      player-red_5: -1688800355
+      player-red_33: 441658150
+      player-red_26: 1321489782
+      player-red_56: 776323045
+      player-red_10: -1306413987
+      player-red_51: -990179964
+      player-red_41: -804802564
+      player-red_71: 693872577
+      player-red_72: 935422227
+      player-red_67: -2139056792
+      player-red_83: -696296851
+      player-red_13: -625098573
+      player-red_1: 951417761
+      player-red_28: 236483322
+      player-red_69: 397627328
+      player-red_53: -1131741438
+      player-red_80: -1758497133
+      player-red_46: 1074684894
+      player-red_52: 779867770
+      player-red_50: 1991514763
+      player-red_75: 1494226709
+      player-red_34: 571252004
+      player-red_8: -804626141
+      player-red_61: -322002530
+      player-red_9: 917410810
+      player-red_85: -1529872087
+      player-red_82: 837616967
+      player-red_16: 1940874071
+      player-red_63: -1169512871
+      player-red_47: 528337202
+      player-red_31: 1426481261
+      player-red_24: -1483651773
+      player-red_29: -795006701
+      player-red_37: -1491938672
+      player-red_22: -1866395558
+      player-red_11: -1557835189
+      player-red_17: -958539602
+      player-red_48: -103449047
+      player-red_66: -1701170368
+      player-red_73: -1414964920
+      player-red_27: 58349233
+      player-red_2: -1058111789
+      player-red_76: 1727982474
+      player-red_15: -753045876
+      player-red_19: -1296929891
+      player-red_44: 518590315
+      player-red_20: -459519662
+      player-red_65: -1133828606
+      player-red_70: -1643505930
+      player-red_0: -1219462069
+      player-red_68: 1153808428
+      player-red_62: -1545036463
+      player-red_35: -896821302
+      player-red_32: -58795505
+      player-red_3: 1713395546
+      player-red_30: 174692275
+      player-red_77: -1812915722
+      player-red_38: 617503370
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

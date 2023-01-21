@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 1a3fcff714a35774bab70bd1c69372a1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player-yellow_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437e50a4c8b968d45b9fff2ac4b8a699
+      internalID: 1670363989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32a799e374727438b65fd3b4f40ec3
+      internalID: 1113440442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18f42feda2e9044859ec6d2dfcfddd
+      internalID: 313706762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f83b67a68f6d249a239d7931ad2cd3
+      internalID: 924130264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0807fcdaa2c8d74b8db7ef38dc92ded
+      internalID: 1687164858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 385
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5864ccaa768e46c46b22ed738d8fb191
+      internalID: 2122132640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 242
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a17638e6c106a41a1cf6d5fe98bdcd
+      internalID: -662934308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 242
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d293448df299d4d962317add95d943
+      internalID: -2018035121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 242
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4423a21f69734541943c8132416bd07
+      internalID: 1575675660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 242
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2ca2e55fbaf434a9bec9af19c7cf8a
+      internalID: 1372821713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 242
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7ba9cbf648ecf4e900d816f358dd57
+      internalID: -1268318355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 242
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d71bf2a79fa40b43b0ce02da3300252
+      internalID: 1984564980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 433
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed375fd2dad00347a0f0a3d0f1d1d17
+      internalID: -140859770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 433
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036a49492c1fad84d96cd448cc1498fc
+      internalID: 386404695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 433
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd08d8daa1a1d944aebf21045eb6e15
+      internalID: 1766665760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 433
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840227718cc28e4a9bfacdd9cf01f7c
+      internalID: -650363532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 433
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53de5484c95144a40b08cb77366c5de1
+      internalID: -988098756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-yellow_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 433
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a96e9c0ea02a741a5864a6d4cb5b73
+      internalID: -1131627264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      player-yellow_18: 2122132640
+      player-yellow_52: -1177729830
+      player-yellow_44: 1759180690
+      player-yellow_32: 1128651772
+      player-yellow_46: 465907956
+      player-yellow_60: -1841736644
+      player-yellow_17: 1687164858
+      player-yellow_6: 78885771
+      player-yellow_8: 270980210
+      player-yellow_47: 780309859
+      player-yellow_7: 565317420
+      player-yellow_11: 574351197
+      player-yellow_20: -1294286385
+      player-yellow_33: 1483695159
+      player-yellow_5: -1131627264
+      player-yellow_31: -449881124
+      player-yellow_38: -2018035121
+      player-yellow_29: -1349747184
+      player-yellow_36: 285659033
+      player-yellow_10: -1623896967
+      player-yellow_19: -1827704096
+      player-yellow_41: -1268318355
+      player-yellow_22: 829861404
+      player-yellow_58: -1587069092
+      player-yellow_55: -2145374735
+      player-yellow_83: -73513122
+      player-yellow_27: 1548375940
+      player-yellow_23: 1926686190
+      player-yellow_77: 1782916770
+      player-yellow_2: 1766665760
+      player-yellow_50: 1668571405
+      player-yellow_51: 1857626091
+      player-yellow_16: 924130264
+      player-yellow_9: 550645529
+      player-yellow_64: 541333418
+      player-yellow_85: 2052623610
+      player-yellow_13: 1670363989
+      player-yellow_42: 1984564980
+      player-yellow_80: -1751341066
+      player-yellow_37: -662934308
+      player-yellow_0: -140859770
+      player-yellow_34: -330244030
+      player-yellow_81: -1660300345
+      player-yellow_65: 1533934307
+      player-yellow_82: -148767602
+      player-yellow_63: -783621413
+      player-yellow_40: 1372821713
+      player-yellow_28: -1210998884
+      player-yellow_84: -1501320031
+      player-yellow_21: -103916608
+      player-yellow_56: 949520580
+      player-yellow_15: 313706762
+      player-yellow_24: 1977103791
+      player-yellow_1: 386404695
+      player-yellow_59: 1361829340
+      player-yellow_4: -988098756
+      player-yellow_26: 1062727824
+      player-yellow_30: 1618689525
+      player-yellow_68: -1228343959
+      player-yellow_76: 627763875
+      player-yellow_57: -1006636691
+      player-yellow_74: 347256004
+      player-yellow_71: -50332959
+      player-yellow_35: 1724829636
+      player-yellow_67: 1964733006
+      player-yellow_25: -1694451284
+      player-yellow_39: 1575675660
+      player-yellow_45: -1518666680
+      player-yellow_49: 1153113568
+      player-yellow_54: 110812750
+      player-yellow_43: -413547535
+      player-yellow_79: 1278921017
+      player-yellow_3: -650363532
+      player-yellow_75: -1301728380
+      player-yellow_73: -1568886901
+      player-yellow_48: 1312791655
+      player-yellow_62: 859011277
+      player-yellow_78: -521361658
+      player-yellow_12: 1092821770
+      player-yellow_69: -1926281077
+      player-yellow_70: -106982432
+      player-yellow_66: 1161577995
+      player-yellow_14: 1113440442
+      player-yellow_72: -1493551608
+      player-yellow_53: 1685281954
+      player-yellow_61: -131197339
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
